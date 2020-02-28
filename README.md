@@ -3,9 +3,9 @@ unitconverter.io is a site dedicated on converting measurements, in this python 
 # How to start
 1) Download unitconverter.io_python_automation
 2) unzip it
-3) open terminal and enter the followeing:
-a) chmod +x con.py
-B) ./con.py <value> <from_type> <to_type> e.g ./con.py 500 grams pounds
+3) open terminal and write down the following
+4) ahmad@Satalite-Scanner:~$ chmod +x con.py
+5) ahmad@Satalite-Scanner:~$ ./con.py <value> <from_type> <to_type>   (e.g ./con.py 500 grams pounds)
 
 #  Support by developing the script
 Ahmad Adnan Jaber
