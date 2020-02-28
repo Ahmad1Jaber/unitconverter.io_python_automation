@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>500 grams to pounds - Unit Converter</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/styles.css">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/img/form.js"></script>
+    <meta property="go:image" content="http://unitconverter.io/about.png" />
+  </head>
+  <body id="conversion">
+    <div id="headerc"><div id="header">
+      <a href="/"><img src="/img/logo.png" alt="Unit Converter" /></a>
+       
+      <div id="social">
+        <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Funitconverter.io&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>
+        <!-- Place this tag where you want the +1 button to render -->
+        <g:plusone size="medium" href="http://unitconverter.io"></g:plusone>
+
+        <!-- Place this render call where appropriate -->
+        <script type="text/javascript">
+          window.___gcfg = {lang: 'en'};
+
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+      </div>
+            <br class="clear">
+    </div></div>
+    <div id="web">
+<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive unitconverter.io -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6006223981262149"
+     data-ad-slot="2933761715"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="cform">
+  <img src="/img/mass.png" height="200">
+  
+  <div class="cformr">
+    <h1>500 grams to pounds</h1>
+    <form action="/calculate" method="post" id="convert_form">
+      <input type="number" size="4" name="cnumber" id="cnumber" value="500">
+      <select name="cfrom" id="cfrom">
+        <optgroup label="Main units">
+        <option value="centigrams">centigrams</option><option value="decagrams">decagrams</option><option value="decigrams">decigrams</option><option value="grams" selected>grams</option><option value="hectograms">hectograms</option><option value="kilograms">kilograms</option><option value="milligrams">milligrams</option>            </optgroup>
+            <optgroup label="Other units">
+          <option value="attograms">attograms</option><option value="carats">carats</option><option value="drams">drams</option><option value="exagrams">exagrams</option><option value="femtograms">femtograms</option><option value="gigagrams">gigagrams</option><option value="grains">grains</option><option value="hundredweights">hundredweights</option><option value="megagrams">megagrams</option><option value="micrograms">micrograms</option><option value="nanograms">nanograms</option><option value="ounces">ounces</option><option value="petagrams">petagrams</option><option value="picograms">picograms</option><option value="pounds">pounds</option><option value="quarters">quarters</option><option value="stones">stones</option><option value="teragrams">teragrams</option><option value="tonnes">tonnes</option><option value="tons">tons</option><option value="yoctograms">yoctograms</option><option value="yottagrams">yottagrams</option><option value="zeptograms">zeptograms</option><option value="zettagrams">zettagrams</option>        </optgroup>
+      </select>
+      <span>to</span>
+      <select name="cto" id="cto">
+        <optgroup label="Main units">
+        <option value="centigrams">centigrams</option><option value="decagrams">decagrams</option><option value="decigrams">decigrams</option><option value="grams">grams</option><option value="hectograms">hectograms</option><option value="kilograms">kilograms</option><option value="milligrams">milligrams</option>            </optgroup>
+            <optgroup label="Other units">
+          <option value="attograms">attograms</option><option value="carats">carats</option><option value="drams">drams</option><option value="exagrams">exagrams</option><option value="femtograms">femtograms</option><option value="gigagrams">gigagrams</option><option value="grains">grains</option><option value="hundredweights">hundredweights</option><option value="megagrams">megagrams</option><option value="micrograms">micrograms</option><option value="nanograms">nanograms</option><option value="ounces">ounces</option><option value="petagrams">petagrams</option><option value="picograms">picograms</option><option value="pounds" selected>pounds</option><option value="quarters">quarters</option><option value="stones">stones</option><option value="teragrams">teragrams</option><option value="tonnes">tonnes</option><option value="tons">tons</option><option value="yoctograms">yoctograms</option><option value="yottagrams">yottagrams</option><option value="zeptograms">zeptograms</option><option value="zettagrams">zettagrams</option>        </optgroup>
+      </select>
+      <input type="submit" value="Convert">
+    </form>
+    
+    <p id="result" style="text-align: center; border: 1px solid #ccc; padding: 20px 0; font-size: 16px">500 Grams = <strong style="color:red">1.1023 Pounds</strong><strong style="color:red"></strong></p>
+  </div>
+  
+</div>
+<div style="clear:both">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive unitconverter.io -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6006223981262149"
+     data-ad-slot="2933761715"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p class="other-info"><a href="/mass-conversion">Mass Converter</a> </p>
+<div id="text">
+  <p>This conversion of 500 grams to pounds has been calculated by multiplying 500 grams by 0.0022 and the result is 1.1023 pounds.</p>
+</div>
+    <div>
+      <h2>500 grams in other units</h2>
+      <ul>
+                  <li><a href="/grams/centigrams/500">500 grams in centigrams</a></li>
+                        <li><a href="/grams/decagrams/500">500 grams in decagrams</a></li>
+                        <li><a href="/grams/decigrams/500">500 grams in decigrams</a></li>
+                        <li><a href="/grams/hectograms/500">500 grams in hectograms</a></li>
+                        <li><a href="/grams/kilograms/500">500 grams in kilograms</a></li>
+                        <li><a href="/grams/milligrams/500">500 grams in milligrams</a></li>
+                  </ul>
+    </div>
+    </div>
+        <div id="recentc"><div id="recent">
+      <ul>
+        <li><div class="searches_container"><div class="truncate"><a href="/bits/kilobytes/24.21" title ="24.21 bits to kilobytes">24.21 bits to kilobytes</a></div> <div class="searches_category"><a class="cat data" href="/data-conversion">data</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/decimeters-per-square-second/hectometers-per-square-second/4078" title ="4,078 decimeters per square second in hectometers per square second">4,078 decimeters per square second in hectometers per square second</a></div> <div class="searches_category"><a class="cat acceleration" href="/acceleration-conversion">acceleration</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/decigrams/milligrams/31.97" title ="how many milligrams is 31.97 decigrams?">how many milligrams is 31.97 decigrams?</a></div> <div class="searches_category"><a class="cat mass" href="/mass-conversion">mass</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/miles-per-second/kilometers-per-second/40.05" title ="40.05 miles per second in kilometers per second">40.05 miles per second in kilometers per second</a></div> <div class="searches_category"><a class="cat speed" href="/speed-conversion">speed</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/inches/miles/3353" title ="3,353 inches in miles">3,353 inches in miles</a></div> <div class="searches_category"><a class="cat length" href="/length-conversion">length</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/bytes/bits/4902" title ="4,902 bytes in bits">4,902 bytes in bits</a></div> <div class="searches_category"><a class="cat data" href="/data-conversion">data</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/degrees-celsius/degrees-fahrenheit/751" title ="751 degrees celsius to degrees fahrenheit">751 degrees celsius to degrees fahrenheit</a></div> <div class="searches_category"><a class="cat temperature" href="/temperature-conversion">temperature</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/square-millimiters/square-yard/69.61" title ="69.61 square millimeters to square yards">69.61 square millimeters to square yards</a></div> <div class="searches_category"><a class="cat area" href="/area-conversion">area</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/degrees-kelvin/degrees-celsius/81.45" title ="81.45 degrees kelvin to degrees celsius">81.45 degrees kelvin to degrees celsius</a></div> <div class="searches_category"><a class="cat temperature" href="/temperature-conversion">temperature</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/square-yard/square-miles/41.23" title ="41.23 square yards in square miles">41.23 square yards in square miles</a></div> <div class="searches_category"><a class="cat area" href="/area-conversion">area</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/degrees-kelvin/degrees-fahrenheit/3208" title ="3,208 degrees kelvin to degrees fahrenheit">3,208 degrees kelvin to degrees fahrenheit</a></div> <div class="searches_category"><a class="cat temperature" href="/temperature-conversion">temperature</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/yards/miles/4013" title ="4,013 yards in miles">4,013 yards in miles</a></div> <div class="searches_category"><a class="cat length" href="/length-conversion">length</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/gigabytes/bits/2369" title ="2,369 gigabytes to bits">2,369 gigabytes to bits</a></div> <div class="searches_category"><a class="cat data" href="/data-conversion">data</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/feet-per-second/kilometers-per-minute/70.55" title ="70.55 feet per second in kilometers per minute">70.55 feet per second in kilometers per minute</a></div> <div class="searches_category"><a class="cat speed" href="/speed-conversion">speed</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/decameters-per-square-second/hectometers-per-square-second/5685" title ="5,685 decameters per square second to hectometers per square second">5,685 decameters per square second to hectometers per square second</a></div> <div class="searches_category"><a class="cat acceleration" href="/acceleration-conversion">acceleration</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/feet/centimeters/981" title ="981 feet to centimeters">981 feet to centimeters</a></div> <div class="searches_category"><a class="cat length" href="/length-conversion">length</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/centimeters-per-square-second/kilometers-per-square-second/6342" title ="how many kilometers per square second is 6,342 centimeters per square second?">how many kilometers per square second is 6,342 centimeters per square second?</a></div> <div class="searches_category"><a class="cat acceleration" href="/acceleration-conversion">acceleration</a></div></div></li><li><div class="searches_container"><div class="truncate"><a href="/hours/months/527" title ="527 hours in months">527 hours in months</a></div> <div class="searches_category"><a class="cat time" href="/time-conversion">time</a></div></div></li>      </ul>
+      <br class="clear" />
+    </div></div>
+    <div id="footerc"><div id="footer">
+      <p><span><a href="http://unitconverter.io/">Unit Converter</a> &copy; 2020</span>· <a href="/about">About</a> · <a href="/disclaimer" rel="nofollow">Disclaimer</a> · <a href="/privacy" rel="nofollow">Privacy policy</a> · <a href="/contact" rel="nofollow">Contact us</a></p>
+          </div></div>
+  <script src="https://apis.google.com/js/plusone.js"></script>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  
+  <!-- Start of StatCounter Code for Default Guide -->
+  <script type="text/javascript">
+  //<![CDATA[
+  var sc_project=9766530; 
+  var sc_invisible=1; 
+  var sc_security="4d196ed4"; 
+  var sc_https=1; 
+  var sc_remove_link=1; 
+  var scJsHost = (("https:" == document.location.protocol) ?
+  "https://secure." : "http://www.");
+  document.write("<sc"+"ript type='text/javascript' src='" +
+  scJsHost+
+  "statcounter.com/counter/counter_xhtml.js'></"+"script>");
+  //]]>
+  </script>
+  <noscript><div class="statcounter"><img class="statcounter"
+  src="http://c.statcounter.com/9766530/0/4d196ed4/1/"
+  alt="hits counter" /></div></noscript>
+  <!-- End of StatCounter Code for Default Guide -->
+</body>
+</html>
