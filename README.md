@@ -1,6 +1,6 @@
 # unitconverter.io_python_automation
 unitconverter.io is a site dedicated on converting measurements, in this python code you are requesting pulling the conversion using CLI.
-# How to start converting using your teminal/cli
+# How to start converting using your terminal/cli
 * Download unitconverter.io_python_automation
 * unzip it
 * open terminal and write down the following
